@@ -3,6 +3,9 @@
 Here, you will design the controller for your for the adaptive cruise control system.
 """
 
+# AI declaration: Codex was used to assist in the development of this code.
+# Manual testing and verification were performed to certify the results.
+
 from mp1_simulator.simulator import Observation, Mode
 
 from typing import Tuple
