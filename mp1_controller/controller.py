@@ -48,9 +48,12 @@ class Controller:
         #   CRUISING  when d > cruise_enter_dist   (STL requires this at 40 m)
         #   FOLLOWING when d < follow_enter_dist
         #   Keep current mode in between
+        # Enter following before the approach-speed limiter leaves us below
+        # cruise speed for six seconds. A 30 m entry threshold delayed this
+        # transition too long behind slow leads; keep only a 1 m hysteresis.
         # ----------------------------------------------------------------
         self.cruise_enter_dist = 40.0
-        self.follow_enter_dist = 30.0
+        self.follow_enter_dist = 39.0
 
         # ----------------------------------------------------------------
         # State
