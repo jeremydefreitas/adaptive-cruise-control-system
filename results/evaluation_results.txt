@@ -1,0 +1,142 @@
+===================================================
+Evaluating trace file:  logs/episode-scenario1_0.csv
+`safeFollowing`               = sat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario1_1.csv
+`safeFollowing`               = sat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = unsat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario1_2.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario1_3.csv
+`safeFollowing`               = sat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario1_4.csv
+`safeFollowing`               = sat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_0.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_1.csv
+`safeFollowing`               = sat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = unsat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_2.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_3.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_4.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_5.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_6.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_7.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_8.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Evaluating trace file:  logs/episode-scenario3_9.csv
+`safeFollowing`               = unsat
+`forwardProgress`             = sat
+`dontStopUnlessLeadStops`     = sat
+`notFollowWhenFarAway`        = sat
+`reachTargetWhenNotFollowing` = sat
+===================================================
+
+===================================================
+Fraction satisfied
+Robustness for `safeFollowing`               = 0.3333333333333333
+Robustness for `forwardProgress`             = 1.0
+Robustness for `dontStopUnlessLeadStops`     = 0.8666666666666667
+Robustness for `notFollowWhenFarAway`        = 1.0
+Robustness for `reachTargetWhenNotFollowing` = 1.0
